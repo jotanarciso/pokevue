@@ -1,6 +1,6 @@
-# pokevue
+# Pokevue
 
-> interface vue consumindo pokeapi
+> Vue.js interface with PokéAPI
 
 ## Build Setup
 
